@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/15surrob/Asteroids/issues"
   },
-  "homepage": "https://github.com/15surrob/Asteroids#readme"
+  "homepage": "https://github.com/15surrob/Asteroids#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
